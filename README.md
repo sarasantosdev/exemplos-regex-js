@@ -3,7 +3,7 @@
 As expressões regulares (regex) nos ajudam a localizar textos, números, caracteres especiais além de serem muito úteis para a validação de dados como: email e senha.
 
 ## Caracteres Básicos
-<code>.</code> qualquer caractere<br>
+<code>.</code qualquer caractere<br>
 <code>\d</code> dígito de 0-9<br>
 <code>\w</code> letra e número<br>
 <code>\s</code> espaço<br>
@@ -29,3 +29,6 @@ As expressões regulares (regex) nos ajudam a localizar textos, números, caract
 <code>g</code> todas as ocorrências<br>
 <code>i</code> ignore <br>
 <code>m</code> início/fim de cada linha<br>
+
+## Para saber mais
+**Acesse a documentação do MDN Mozilla: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions**
